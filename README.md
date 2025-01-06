@@ -8,7 +8,7 @@
 Provide a high-level description of your project. Include explanatory links if you think they will be helpful.
 
 ### Skill Usage
-Explain what skills from this semester you will be using in this project, and how they will be used. Se
+Explain what skills from this semester you will be using in this project, and how they will be used.
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
